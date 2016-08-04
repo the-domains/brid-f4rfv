@@ -1,4 +1,3 @@
-layout_spectrum: 0.5130050552543253
 typography_spectrum: 0.484150234144181
 color:
   brandStrength: 0.2956446388270706
@@ -11,5 +10,7 @@ color:
     - '#B3BFB8'
     - '#F0F7F4'
     - '#A2E3C4'
+layout_spectrum: 0.5130050552543253
 name: Brid
+title: Brett’s Grid
 description: I have no idea what I'm doing
