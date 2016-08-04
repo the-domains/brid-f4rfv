@@ -4,8 +4,15 @@
         <description><![CDATA[Brid]]></description>
         <link>https://thegrid.ai/brid-f4rfv/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 04 Aug 2016 02:10:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Aug 2016 02:10:49 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/brid-f4rfv/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[This is only a test]]></title>
+            <description><![CDATA[<article><h1>This is only a test</h1><p>Hello world</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f06ac834-fae1-41b1-b058-6b39ac1084ea.jpg"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/f06ac834-fae1-41b1-b058-6b39ac1084ea.jpg</link>
+            <guid isPermaLink="false">0c2b50be-02bf-4c96-8243-8b3a0ca5d0ee</guid>
+            <pubDate>Thu, 04 Aug 2016 02:09:59 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Bistro Proti Proudu, Prague, Czech Republic ]]></title>
             <description><![CDATA[<article><h1>Bistro Proti Proudu, Prague, Czech Republic </h1><p>With an ever-growing number of cool cafés, wine bars and shops, Prague's Karlín district is fast becoming a haven for the hip set. Its latest arrival, is Bistro Proti, a cosy corner eatery with a sleek interior inspired by the neighbourhood's most significant historical figure, engineer František Križík.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b1fd22919c3e43a0e413c38e19bb8ca598161339.jpg"></article>]]></description>
