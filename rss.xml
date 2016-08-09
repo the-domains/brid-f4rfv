@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Brid]]></title>
-        <description><![CDATA[Brid]]></description>
+        <title><![CDATA[Brett’s Grid]]></title>
+        <description><![CDATA[Brett’s Grid]]></description>
         <link>https://thegrid.ai/brid-f4rfv/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 04 Aug 2016 02:10:49 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Aug 2016 07:19:51 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/brid-f4rfv/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Quick Look: No Man's Sky]]></title>
+            <description><![CDATA[<article><h1>Quick Look: No Man's Sky</h1><p>The wait is over and Alex is finally able to tell us about the mysterious wonders of the universe.</p><img src="http://static.giantbomb.com/uploads/screen_kubrick/0/31/2876008-cp_nomanssky_ql.01_02_17_29.still001.jpg"></article>]]></description>
+            <link>http://www.giantbomb.com/videos/quick-look-no-mans-sky/2300-11484/</link>
+            <guid isPermaLink="false">267fb53f-7c24-4d8d-9197-60ba1519b269</guid>
+            <pubDate>Tue, 09 Aug 2016 07:19:28 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[This is only a test]]></title>
             <description><![CDATA[<article><h1>This is only a test</h1><p>Hello world</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f06ac834-fae1-41b1-b058-6b39ac1084ea.jpg"></article>]]></description>
