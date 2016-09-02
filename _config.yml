@@ -1,16 +1,16 @@
-typography_spectrum: 0.484150234144181
+layout_spectrum: 0.9085611649788916
+typography_spectrum: 0.24297982291318476
 color:
-  brandStrength: 0.2956446388270706
-  lightness: 0.5050602711271495
-  saturation: 0.1447149207815528
-  rhythmicContrast: 0.3387908237054944
+  brandStrength: 0.9215014700312167
+  lightness: 0.5951991328038275
+  saturation: 0.42692271573469043
+  rhythmicContrast: 0.3582636674400419
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
-layout_spectrum: 0.5130050552543253
+    - '#FFF8E3'
+    - '#CCCC9F'
+    - '#33332D'
+    - '#9FB4CC'
+    - '#DB4105'
 name: Brid
 title: Brett’s Grid
 description: I have no idea what I'm doing
